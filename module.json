@@ -42,6 +42,6 @@
   },
   "socket": true,
   "url": "https://github.com/zibzock/song-of-the-sea",
-  "download":"https://raw.githubusercontent.com/zibzock/stheno-ancestry/main/song-of-the-sea.zip",
+  "download":"https://raw.githubusercontent.com/zibzock/song-of-the-sea/main/song-of-the-sea.zip",
   "manifest":"https://raw.githubusercontent.com/zibzock/song-of-the-sea/main/module.json"
 }
