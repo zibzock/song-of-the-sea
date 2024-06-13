@@ -1,0 +1,43 @@
+{
+  "id": "song-of-the-sea",
+  "title": "Song of the Sea",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "John Quarnstrom",
+      "discord": "Zibzock",
+      "email": "jquarn3rd@gmail.com",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "song-of-the-sea-expanded-merfolk",
+      "label": "Song of the Sea (Expanded Merfolk)",
+      "path": "packs/song-of-the-sea-expanded-merfolk",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "song-of-the-sea": {
+      "pf2e-homebrew": {
+        "weaponTraits": {
+          "hydrodynamic": {
+            "label": "Hydrodynamic",
+            "description": "A hydrodynamic weapon is a ranged weapon with ammo specifically designed for use underwater. This lends to shorter ranges than their surface equivalents, but you don’t halve the weapon’s range increments when you and the target are both underwater."
+          }
+        }
+      }
+    }
+  }
+}
